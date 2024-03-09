@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="FloatingActionButton">
+        <attr name="fab_label" format="string"/>
+    </declare-styleable>
+</resources>
